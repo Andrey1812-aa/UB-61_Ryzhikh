@@ -1,0 +1,10 @@
+res1 = 2 + 3 * 4
+res2 = (2 + 3) * 4
+res3 = 17 // 5
+res4 = 17 % 5
+res5 = -7 // 2
+print(f"2 + 3 * 4 = {res1}")
+print(f"(2 + 3) * 4 = {res2}")
+print(f"17 // 5 = {res3}")
+print(f"17 % 5 = {res4}")
+print(f"-7 // 2 = {res5}")
